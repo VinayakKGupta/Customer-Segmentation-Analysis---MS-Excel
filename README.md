@@ -2,8 +2,8 @@
 
 ## Business Requirement
 
-**1.Identify top customers by segment and state to optimize marketing strategies, and determine top services by month to boost sales.**
-**2.Analyze top services based on sales revenue and profit to guide business decisions.** 
+1.Identify top customers by segment and state to optimize marketing strategies, and determine top services by month to boost sales.**
+2.Analyze top services based on sales revenue and profit to guide business decisions.** 
 
 ## Tools and Functionalities Used 
 
@@ -37,7 +37,7 @@ I used Data Analysis Toolpack for Exploratory Data Analysis.
 
 The main feature for this Analysis was Pivot Tables.
 
-## **Customer Analysis
+## Customer Analysis
 
 Used Pivot table for analysis.
 
@@ -53,7 +53,7 @@ Used Pivot table for analysis.
 
 <img width="1126" height="312" alt="image" src="https://github.com/user-attachments/assets/78604077-2f40-4aab-aa4c-92cd50e8df3c" />
 
-## **Sales Analysis
+## Sales Analysis
 
 1) Sales by Service
 
@@ -99,8 +99,6 @@ Offer packages or promotions during slow months (April, May).
 
 These services show moderate volume but consistent monthly demand.
 Bundle them with high-performing services like Mentoring programs to increase cross-selling and average order value.
- 
-<img width="1134" height="465" alt="image" src="https://github.com/user-attachments/assets/29fc649c-4dc2-4440-b453-50f8a6a3df6a" />
 
 ** Sales Insights
 
@@ -111,21 +109,17 @@ The business generated $890,427 in total sales and $683,960 in total profit, ach
 A 5% reduction in service provider costs could generate an additional $10,323 in profit without increasing sales volume.
 This can be achieved through vendor negotiations, bulk service agreements, or optimizing provider allocation.
 
-<img width="1552" height="274" alt="image" src="https://github.com/user-attachments/assets/1721c923-fb20-40ce-89d3-343f4606d34a" />
-
 2. Top Performing Services
 Mentoring Program , Interview Preparation and Networking Service contribute nearly 60 % of total profit. 
 Increasing sales of the Mentoring Program by just 10% could result in approximately $16,800 additional profit.
 Strategic focus can be placed on these top services through marketing promotions, bundling, and premium service packaging.
-
-<img width="1525" height="175" alt="image" src="https://github.com/user-attachments/assets/81c50635-c6ef-48fd-9eb9-1c3734e74e98" />
 
 3. Monthly Profit Trend & Seasonality
 Difference between higest profit month (March)  and lowest profit month ( April) is $22,922.65.
 Even a 10% increase in April sales could generate an additional  $4,500 monthly profit.
 We may introduce targeted promotions or service bundles during low-performing months (April–May).
 
-<img width="1258" height="175" alt="image" src="https://github.com/user-attachments/assets/eb5be978-2c91-4a66-bf34-5e3762c2c68f" />
+
 
 
 
