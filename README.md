@@ -2,12 +2,12 @@
 
 ## Business Requirement
 
-1.Identify top customers by segment and state to optimize marketing strategies, and determine top services by month to boost sales.**
-2.Analyze top services based on sales revenue and profit to guide business decisions.** 
+1.Identify top customers by segment and state to optimize marketing strategies, and determine top services by month to boost sales.
+2.Analyze top services based on sales revenue and profit to guide business decisions.
 
 ## Tools and Functionalities Used 
 
-**MS Excel (Pivot Tables, Conditional Formatting, Data Validation, Data Analysis Toolpak), Power Query, DAX measures, and Data Visualization tools.
+MS Excel (Pivot Tables, Conditional Formatting, Data Validation, Data Analysis Toolpak), Power Query, DAX measures, and Data Visualization tools.
 
 ## Approach
 
@@ -72,7 +72,7 @@ I used DAX to calulate profit percentage.
 
 ## Insights
 
-** Customer Insights
+Customer Insights
 
 1. NSW is our Strongest Revenue Driver
 NSW leads both in customer count (136) and total sales ($171,650), making it the most valuable market.
@@ -100,7 +100,7 @@ Offer packages or promotions during slow months (April, May).
 These services show moderate volume but consistent monthly demand.
 Bundle them with high-performing services like Mentoring programs to increase cross-selling and average order value.
 
-** Sales Insights
+Sales Insights
 
 1.  Profitability & Cost Efficiency
 
